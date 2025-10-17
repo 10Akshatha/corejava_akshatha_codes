@@ -8,7 +8,7 @@ class EcommercePlatform
 }
 class Amazon extends EcommercePlatform
 {
-	void calculateDiscount()
+	void CalculateDiscount()
 	{
 	    System.out.println("Extra Discount =20%");	
 	}

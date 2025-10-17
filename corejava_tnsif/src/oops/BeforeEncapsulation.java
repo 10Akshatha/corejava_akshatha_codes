@@ -1,6 +1,6 @@
 package oops;
 
-class Human {
+class Humann{
 
 		private int age;
 		private String name;
@@ -22,7 +22,7 @@ class Human {
 
 public class BeforeEncapsulation {
 	public static void main(String[] args) {
-		Human obj= new Human();
+		Humann obj= new Humann();
 		obj.setAge(23);
 		obj.setName("Bhanu");
 		System.out.println(obj.getAge());

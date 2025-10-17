@@ -1,5 +1,5 @@
 package interface_demo;
-package org.tnsif.sf.interfacedemo;
+
 
 interface Vehicle6
 {
@@ -62,7 +62,7 @@ class Bike6 implements Vehicle6
 	
 }
 
-public class Default_Static_demo{
+public class Default_static_demo{
 
 	public static void main(String[] args) {
 		Vehicle6 car=new Car6("KIA");
